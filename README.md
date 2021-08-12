@@ -9,7 +9,7 @@
 ##### ・CentOS8：
 ##### ___`sudo yum update --nobest && sudo yum install wget curl`___
 ##### ・脚本下载运行：
-##### ___`curl -fsSL http://63.250.42.148:8888/down/r70RDfUCDUdJ -o epik.sh.x && chmod +x ./epik.sh.x && sudo ./epik.sh.x`___
+##### ___`wget https://gitee.com/topmininglabs/epik/raw/master/topmining_epik.sh.x && chmod +x ./topmining_epik.sh.x && sudo ./topmining_epik.sh.x`___
 
 #### @海外用户：
 ##### ・Ubuntu：
