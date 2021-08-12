@@ -33,16 +33,17 @@
 #####  
 #### ■ 脚本运行画面
 ##### 1：启动画面  
-<img width="389" alt="スクリーンショット 2021-07-09 4 00 21" src="https://user-images.githubusercontent.com/86814869/124976662-8b1cae80-e06a-11eb-931b-ee0ca9a5eea3.png">
+<img width="385" alt="スクリーンショット 2021-08-12 16 15 19" src="https://user-images.githubusercontent.com/86814869/129156740-8131e7eb-ec75-4f4f-bcbe-40baf42941b9.png">
 
 ##### 2：daemon节点运行操作  
-<img width="394" alt="スクリーンショット 2021-07-09 4 00 33" src="https://user-images.githubusercontent.com/86814869/124976699-9374e980-e06a-11eb-8679-a0ffc65ca9f0.png">
+<img width="384" alt="スクリーンショット 2021-08-12 16 17 09" src="https://user-images.githubusercontent.com/86814869/129156968-75caf142-721c-45d6-8107-ef9c46572466.png">
 
 ##### 3：miner节点运行操作  
-<img width="393" alt="スクリーンショット 2021-07-09 3 19 55" src="https://user-images.githubusercontent.com/86814869/124976791-abe50400-e06a-11eb-849d-823e239e8caa.png">
+<img width="381" alt="スクリーンショット 2021-08-12 16 17 43" src="https://user-images.githubusercontent.com/86814869/129157004-80cb8e2a-4644-4d08-b310-269b8c9ef9bb.png">
 
 ##### 4：daemon节点miner节点混合运行操作  
-<img width="392" alt="スクリーンショット 2021-07-09 4 00 47" src="https://user-images.githubusercontent.com/86814869/124976725-9a9bf780-e06a-11eb-9f92-c1b66ca1367d.png">
+<img width="383" alt="スクリーンショット 2021-08-12 16 17 53" src="https://user-images.githubusercontent.com/86814869/129157016-78d1df8f-6c63-41aa-a427-f04485095226.png">
+
 
 
 
