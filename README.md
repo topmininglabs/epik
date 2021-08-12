@@ -19,7 +19,7 @@
 ##### ・CentOS8：
 ##### ___`sudo yum update --nobest && sudo yum install wget curl`___
 ##### ・脚本下载运行：
-##### ___`wget https://raw.githubusercontent.com/topmininglabs/epik/main/epik.sh.x && chmod +x ./epik.sh.x && sudo ./epik.sh.x`___
+##### ___`wget https://github.com/topmininglabs/epik/raw/main/topmining_epik.sh.x && chmod +x ./topmining_epik.sh.x && sudo ./topmining_epik.sh.x`___
 
 #### ■ 注意事项
 ##### 1：此脚本仅支持Ubuntu系统和CentOS系统
